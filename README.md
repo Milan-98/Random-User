@@ -33,7 +33,7 @@ This API(aaplication programming interface) site. which generate every time rand
 
 ## Documentation
 
-[Project-Link](https://random-user-com.netlify.app)
+[Project-Link is not working due to netlify issues](https://random-user-com.netlify.app)
 
 
 ## Features
